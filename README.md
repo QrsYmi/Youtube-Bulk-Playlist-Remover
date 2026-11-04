@@ -1,4 +1,4 @@
-                           Built a free Chrome extension to bulk delete YouTube playlists after dealing with account spam
+Built a free Chrome extension to bulk delete YouTube playlists after dealing with account spam
 
 
 Hi guys,
@@ -22,6 +22,7 @@ Completely safe and lightweight (runs locally in your browser, no data saved/sen
 
 
 
-https://github.com/user-attachments/assets/138e6388-9887-419c-90e6-50543aa26b44
+<video src="https://github.com/user-attachments/assets/138e6388-9887-419c-90e6-50543aa26b44controls" width="100%"></video>
+
 
 
